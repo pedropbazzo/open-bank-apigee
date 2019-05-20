@@ -1,0 +1,28 @@
+{
+  "name": "apigee-openbank",
+  "version": "1.0.1",
+  "description": "openbanking solution in Apigee",
+  "scripts": {
+    "start": "npm install && gulp deploy"
+  },
+  "dependencies": {
+    "@google-cloud/datastore": "^1.4.2",
+    "apickli": "latest",
+    "async": "*",
+    "chromedriver": "^2.31.0",
+    "cucumber": "^5.0.1",
+    "edge-launchpad": "^2.0.2",
+    "eslint": "^4.9.0",
+    "eslint-config-google": "^0.9.1",
+    "fs": "latest",
+    "fs-extra": "^7.0.0",
+    "gulp": "^3.9.1",
+    "gulp-cucumber": "0.0.23",
+    "gulp-eslint": "^4.0.0",
+    "gulp-sequence": "*",
+    "jsonwebtoken": "latest",
+    "readline": "*",
+    "selenium-webdriver": "^3.5.0"
+  },
+  "license": "Apache-2.0"
+}

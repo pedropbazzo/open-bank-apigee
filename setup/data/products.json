@@ -1,0 +1,11 @@
+[
+  {
+    "name": "CC1",
+    "AccountId": [
+      "987654321"
+    ],
+    "ProductName": "Bank CC1 product",
+    "ProductType": "Current Account",
+    "SecondaryProductIdentifier": "BankCC1"
+  }
+]
